@@ -1,2 +1,2 @@
 # jsclass-interceptor
-Easy to use interceptor enablor.
+Easy to use interceptor enabler.
