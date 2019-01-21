@@ -1,0 +1,23 @@
+{
+  "name": "jsclass-interceptor",
+  "version": "0.0.1",
+  "description": "Easy to use interceptor enabler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojiy7214/jsclass-interceptor.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Intercept"
+  ],
+  "author": "Koji Yamashita <koji7214@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kojiy7214/jsclass-interceptor/issues"
+  },
+  "homepage": "https://github.com/kojiy7214/jsclass-interceptor#readme"
+}
